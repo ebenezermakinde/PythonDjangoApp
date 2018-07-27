@@ -91,8 +91,8 @@ DATABASES = {
 #     'default' : {
 #         'ENGINE': 'django.db.backends.mysql',
 #         'NAME': 'djangochallengeapp',
-#         'USER': 'root',
-#         'PASSWORD': 'Lcmanager',
+#         'USER': '******',
+#         'PASSWORD': '******',
 #         'HOST': 'localhost',
 #         'PORT': ''
 #     }
